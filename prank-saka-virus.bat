@@ -1,4 +1,4 @@
-e@echo off
+@echo off
 color 0a
 title ----------------------Şaka Virüsü-------------------------
 :top
